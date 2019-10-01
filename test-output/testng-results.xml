@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49356" started-at="2019-09-24T13:58:09 IST" finished-at="2019-09-24T13:58:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49356" started-at="2019-09-24T13:58:09 IST" finished-at="2019-09-24T13:58:59 IST">
+      <class name="testmeapp.Report">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:testmeapp.Report@7494e528]" name="startReport" is-config="true" duration-ms="156" started-at="2019-09-24T13:58:09 IST" finished-at="2019-09-24T13:58:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="passTest()[pri:1, instance:testmeapp.Report@7494e528]" name="passTest" duration-ms="33151" started-at="2019-09-24T13:58:10 IST" finished-at="2019-09-24T13:58:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmeapp.Report@7494e528]" name="getResult" is-config="true" duration-ms="378" started-at="2019-09-24T13:58:43 IST" finished-at="2019-09-24T13:58:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passTest status=SUCCESS method=Report.passTest()[pri:1, instance:testmeapp.Report@7494e528] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="passTest2()[pri:2, instance:testmeapp.Report@7494e528]" name="passTest2" duration-ms="2309" started-at="2019-09-24T13:58:43 IST" finished-at="2019-09-24T13:58:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest2 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmeapp.Report@7494e528]" name="getResult" is-config="true" duration-ms="352" started-at="2019-09-24T13:58:45 IST" finished-at="2019-09-24T13:58:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passTest2 status=SUCCESS method=Report.passTest2()[pri:2, instance:testmeapp.Report@7494e528] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="passTest3()[pri:3, instance:testmeapp.Report@7494e528]" name="passTest3" duration-ms="6581" started-at="2019-09-24T13:58:46 IST" finished-at="2019-09-24T13:58:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest3 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmeapp.Report@7494e528]" name="getResult" is-config="true" duration-ms="396" started-at="2019-09-24T13:58:52 IST" finished-at="2019-09-24T13:58:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passTest3 status=SUCCESS method=Report.passTest3()[pri:3, instance:testmeapp.Report@7494e528] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="passTest4()[pri:4, instance:testmeapp.Report@7494e528]" name="passTest4" duration-ms="4780" started-at="2019-09-24T13:58:53 IST" finished-at="2019-09-24T13:58:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passTest4 -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:testmeapp.Report@7494e528]" name="getResult" is-config="true" duration-ms="404" started-at="2019-09-24T13:58:58 IST" finished-at="2019-09-24T13:58:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=passTest4 status=SUCCESS method=Report.passTest4()[pri:4, instance:testmeapp.Report@7494e528] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:testmeapp.Report@7494e528]" name="endReport" is-config="true" duration-ms="796" started-at="2019-09-24T13:58:58 IST" finished-at="2019-09-24T13:58:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- testmeapp.Report -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
